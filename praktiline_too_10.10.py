@@ -1,7 +1,7 @@
 """Matemaatilised tehted"""
 import math
 
-# küsime kasutajalt ujuvkomaarvu kujul kolmnurga kaatetid a ja b
+# küsime kastutajalt ujuvkomaarvu kujul kolmnurga kaatetid a ja b
 
 
 

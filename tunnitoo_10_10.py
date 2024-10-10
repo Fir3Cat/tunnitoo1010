@@ -1,7 +1,7 @@
 """Matemaatilised tehted"""
 import math
 
-# tingimuslaused if ja else töötavad ainult andmetüübiga bool(ean)
+# tingimuslausedt if ja else töötavad ainult andmetüübiga bool(ean)
 
 # booleanil on vaid kaks väärtust kas False(ei kehti/0) või True (kehtiv/1)
 # booleani võib igasugu moodi esitada kuid kõige levinum on võrdlemine
